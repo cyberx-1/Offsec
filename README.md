@@ -1,1 +1,1 @@
-# Offsec
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/j6hm.png)](https://tryhackme.com/p/j6hm)
